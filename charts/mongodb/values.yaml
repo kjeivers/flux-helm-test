@@ -50,5 +50,5 @@ persistence:
 ##
 resources:
   requests:
-    memory: 300Mi
+    memory: 290Mi
     cpu: 100m
